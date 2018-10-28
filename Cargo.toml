@@ -1,0 +1,9 @@
+[package]
+name = "clippy_mvce"
+version = "0.1.0"
+authors = ["NieDzejkob <niedzejkob@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+num-derive = "0.2"
+num-traits = "0.2"
